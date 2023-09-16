@@ -1,7 +1,7 @@
 theme: architect
 title: projects
 header_pages:
-  - index.md
-  - home.md
+ - index.md
+ - home.md
 author:
 linkedin_username:
